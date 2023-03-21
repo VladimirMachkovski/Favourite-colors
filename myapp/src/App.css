@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main_container {
+  width: 400px;
+  height: 100vh;
+  margin: auto;
+}
+
+.container {
+  width: 360px;
+  height: 100vh;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.my_favourite_colors {
+  width: 180px;
+  font-size: 20px;
+}
+
+.input_container {
+  width: 360px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.input_div {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.input {
+  width: 260px;
+  height: 40px;
+}
+
+.input_color {
+  width: 40px;
+  height: 40px;
+}
+
+.img_square {
+  width: 40px;
+  height: 40px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+
+.plus_button {
+  width: 20px;
+  height: 20px;
+  margin: auto;
+}
+
+.name_color_removeColor {
+  width: 360px;
+  height: 30px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.name_color {
+  width: 180px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.color_square {
+  width: 30px;
+  height: 30px;
+}
+
+.input_text {
+  width: 150px;
+  height: 30px;
+}
+
+.remove_color {
+  width: 100px;
+  height: 30px;
+}
